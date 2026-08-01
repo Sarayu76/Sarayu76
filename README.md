@@ -1,7 +1,13 @@
 <!-- GITHUB PROFILE BANNER -->
 <p align="center">
-<img src="./github_profile_hero.png" width="100%">
+<img src="./github_profile_header.png" width="850">
 </p>
+
+<h1 align="center">Hi 👋, I'm Sarayu E</h1>
+
+<h3 align="center">
+Full Stack Developer | MERN | Java | Python | AI Enthusiast
+</h3>
 
 <br />
 
