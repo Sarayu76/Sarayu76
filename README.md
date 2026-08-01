@@ -1,24 +1,18 @@
 <!-- GITHUB PROFILE BANNER -->
 <p align="center">
-<img src="./github_profile_banner.png" width="850">
+<img src="./github_profile_hero.png" width="100%">
 </p>
 
 <br />
 
-<!-- ABOVE THE FOLD PANEL -->
+<!-- TYPING INTRO & CORE BADGES -->
 <div align="center">
-  <!-- Centered Avatar -->
-  <a href="https://github.com/Sarayu76">
-    <img src="https://github.com/Sarayu76.png" alt="Sarayu E" width="120" height="120" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" />
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Software+Developer;Java+%26+Python+Engineer;MERN+Stack+Specialist;AI+%26+Intelligent+Systems" alt="Typing SVG" />
   </a>
 
-  <br /><br />
-
-  <!-- Name and Title -->
-  <h1 align="center" style="margin-bottom: 5px;">Sarayu E</h1>
-  <p align="center" style="font-size: 18px; color: #00F0FF; font-weight: bold; margin-top: 0;">Full Stack Developer | MERN Stack | Java | Python | AI Enthusiast</p>
-
-  <!-- Quick Badges -->
+  <!-- Professional Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/🚀_Open_to_Internships-9B5DE5?style=flat-square" alt="Open to Internships" />
     <img src="https://img.shields.io/badge/💼_Full_Stack_Developer-0077B5?style=flat-square" alt="Full Stack Developer" />
@@ -26,26 +20,13 @@
     <img src="https://img.shields.io/badge/🌐_MERN_Stack-20232A?style=flat-square&logo=react" alt="MERN Stack" />
   </p>
 
-  <!-- Short Summary -->
-  <p align="center" style="max-width: 680px; font-size: 15px; color: #cbd5e0; line-height: 1.6;">
-    B.Tech Computer Science and Business Systems (CSBS) student and Full Stack Developer.<br />
-    Building secure, intelligent, and scalable digital solutions utilizing modern web engineering and AI.
-  </p>
-
-  <!-- Followers & Profile Views -->
   <p align="center">
-    <a href="https://github.com/Sarayu76?tab=followers"><img src="https://img.shields.io/github/followers/Sarayu76?label=Followers&style=flat-square&color=00F0FF&logo=github" alt="Followers" /></a>
-    <img src="https://komarev.com/normal-visitors/?username=Sarayu76&label=Profile%20Views&color=9B5DE5&style=flat-square" alt="Profile Views" />
+    <a href="#🚀-featured-projects">📂 Explore Projects</a> • 
+    <a href="#💡-tech-stack">🛠️ View Skills</a> • 
+    <a href="#🌐-connect-with-me">🌐 Get in Touch</a>
   </p>
 
-  <!-- CTA Button -->
-  <p align="center" style="margin-top: 15px;">
-    <a href="#featured-projects">
-      <img src="https://img.shields.io/badge/View_My_Projects_↓-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Projects" />
-    </a>
-  </p>
-
-  <hr width="75%" style="border: 0.5px solid #00f0ff; opacity: 0.3;" />
+  <hr width="75%" style="border: 0.5px solid #9b5de5; opacity: 0.3;" />
 </div>
 
 <br />
@@ -53,78 +34,74 @@
 <!-- ABOUT ME SECTION -->
 ## 👩‍💻 About Me
 
-I am a focused **B.Tech Computer Science and Business Systems (CSBS)** student at **VSB Engineering College, Karur**, and a passionate **Full Stack Developer**. I combine backend architecture logic with strategic business operations to build secure, robust applications. 
-
-- 🎓 **Major:** B.Tech – Computer Science and Business Systems
-- 💡 **Interests:** MERN Stack, Java Development, Python Programming, Artificial Intelligence, Blockchain Protocols, and Modern Web Development.
-- 🥊 **Fun Fact:** When I'm not writing loops, I'm throwing jabs! I'm a competitive boxer and the founder of **Bright Dance Company**.
+<div align="center">
+  <table width="95%" style="border-collapse: collapse; border: 1px solid #9B5DE5; border-radius: 8px; background-color: #08090D;">
+    <tr>
+      <td style="padding: 20px;">
+        <h3>Hi, I'm Sarayu E 👋</h3>
+        <p style="font-size: 16px; line-height: 1.6; color: #cbd5e0;">
+          I'm a <b>Full Stack Developer</b> passionate about building scalable web applications, AI solutions, and innovative software products.
+        </p>
+        <p style="font-size: 14.5px; line-height: 1.6; color: #a0aec0;">
+          Currently pursuing my <b>B.Tech in Computer Science and Business Systems (CSBS)</b> at VSB Engineering College, Karur. I bridge strategic business architectures with core computational logic, specializing in backend architectures, deep learning model deployments, and secure cryptographic validation workflows.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<!-- TECHNICAL SKILLS SECTION -->
-## 💡 Technical Skills
+<!-- TECH STACK SECTION -->
+## 💡 Tech Stack
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend Development</h4>
-      <ul>
-        <li>HTML5 & CSS3</li>
-        <li>JavaScript (ES6+)</li>
-        <li>React.js</li>
-        <li>Tailwind CSS</li>
-        <li>Figma (UI/UX prototyping)</li>
-      </ul>
+    <!-- Frontend -->
+    <td width="33%" valign="top">
+      <h4>🎨 Frontend</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Frameworks</h4>
-      <ul>
-        <li>Java / Spring Boot</li>
-        <li>Node.js / Express.js</li>
-        <li>Python / Flask</li>
-      </ul>
+    <!-- Backend -->
+    <td width="33%" valign="top">
+      <h4>⚙️ Backend</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Database Management</h4>
-      <ul>
-        <li>MongoDB (NoSQL)</li>
-        <li>MySQL (SQL)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Programming Languages</h4>
-      <ul>
-        <li>Java (OOP & Systems)</li>
-        <li>Python (Automation & ML)</li>
-        <li>C Language</li>
-      </ul>
+    <!-- Databases & Tools -->
+    <td width="34%" valign="top">
+      <h4>🗄️ Databases & Tools</h4>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Artificial Intelligence & ML</h4>
-      <ul>
-        <li>Machine Learning Algorithms</li>
-        <li>Generative AI Systems</li>
-        <li>Gemini API Integrations</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools & Cloud Platforms</h4>
-      <ul>
-        <li>Git / GitHub</li>
-        <li>Docker (Basics)</li>
-        <li>AWS (Amazon Web Services Basics)</li>
-      </ul>
+    <!-- AI -->
+    <td colspan="3" valign="top">
+      <br/>
+      <h4>🤖 Artificial Intelligence</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square" />
+      <img src="https://img.shields.io/badge/Generative_AI-9B5DE5?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gemini_API-00F0FF?style=flat-square&logo=google&logoColor=black" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- FEATURED PROJECTS SECTION -->
+<!-- PROJECTS SECTION -->
 ## 🚀 Featured Projects
 
 <table width="100%">
@@ -133,20 +110,18 @@ I am a focused **B.Tech Computer Science and Business Systems (CSBS)** student a
     <td width="50%" valign="top">
       <h3>🔗 BlockCred</h3>
       <p><b>Blockchain-Based Skill Credential Verification System</b></p>
-      <p>A secure, decentralized solution utilizing Solidity smart contracts to issue, archive, and instantly verify academic credentials and skills, eliminating credential fraud.</p>
+      <p>A secure decentralized protocol leveraging Ethereum smart contracts to issue, store, and verify academic achievements and credentials, eliminating qualification forgery.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-Solidity-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-Ethereum-blue?style=flat-square" />
+        <kbd>Blockchain</kbd> <kbd>Solidity</kbd> <kbd>Web3.js</kbd> <kbd>Ethereum</kbd>
       </p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3>👁️ VisionGuard AI</h3>
-      <p><b>AI-Based Driver Alertness and Safety Monitoring System</b></p>
-      <p>An intelligent computer vision model that tracks eye closing durations and facial features in real-time, predicting driver fatigue to trigger instant auditory warning alarms.</p>
+      <p><b>AI-Based Driver Alertness Monitoring System</b></p>
+      <p>A real-time deep learning computer vision model tracking driver gaze metrics and eye closing intervals to predict attention lapses and alert driving operators instantly.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-OpenCV-cyan?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-TensorFlow-orange?style=flat-square" />
+        <kbd>Computer Vision</kbd> <kbd>Python</kbd> <kbd>TensorFlow</kbd> <kbd>OpenCV</kbd>
       </p>
     </td>
   </tr>
@@ -155,23 +130,19 @@ I am a focused **B.Tech Computer Science and Business Systems (CSBS)** student a
   <tr>
     <td width="50%" valign="top">
       <h3>📄 Resume Screening System</h3>
-      <p><b>AI-Powered Resume Analysis</b></p>
-      <p>A Flask web portal running Gemini LLM services to parse candidates' resumes, rank competency against job descriptions, and store evaluations inside MongoDB.</p>
+      <p><b>AI-Powered Resume Analyzer</b></p>
+      <p>An automation pipeline built on Flask and Gemini AI that parses candidate resumes, indexes skill matches against job requirements, and stores analytics in MongoDB.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-Gemini_AI-9B5DE5?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-Flask-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-MongoDB-47A248?style=flat-square" />
+        <kbd>Gemini AI</kbd> <kbd>Flask</kbd> <kbd>MongoDB</kbd> <kbd>NLP</kbd>
       </p>
     </td>
     <!-- Project 4 -->
     <td width="50%" valign="top">
       <h3>💵 Weekend Allowance Management System</h3>
-      <p><b>Role-Based Financial Tracker with AI Chatbot</b></p>
-      <p>An automated ledger system mapping budget lines and transactions with an embedded AI assistant to answer user questions on savings optimizations.</p>
+      <p><b>Full Stack Expense Ledger with AI Chatbot</b></p>
+      <p>An accounting portal with role-based dashboard views mapping weekly spending limits and budgets, accompanied by an AI agent assisting in financial advice.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-MySQL-00758F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-AI_Chatbot-green?style=flat-square" />
+        <kbd>Node.js</kbd> <kbd>React</kbd> <kbd>MySQL</kbd> <kbd>AI Chatbot</kbd>
       </p>
     </td>
   </tr>
@@ -180,34 +151,11 @@ I am a focused **B.Tech Computer Science and Business Systems (CSBS)** student a
 ---
 
 <!-- ACHIEVEMENTS SECTION -->
-## 🏆 Achievements
+## 🏆 Achievements & Extracurriculars
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🥊 Boxing Achievements</h4>
-      <ul>
-        <li>🥇 <b>District-Level Winner</b></li>
-        <li>🎖️ <b>State-Level Participant</b></li>
-        <li>🎓 <b>University-Level Selection</b></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💡 Hackathons</h4>
-      <ul>
-        <li>🚀 Active participant in national hackathons</li>
-        <li>💻 Innovating prototype models combining Blockchain & Web3</li>
-      </ul>
-    </td>
-    <td width="34%" valign="top">
-      <h4>⚙️ Technical Leadership</h4>
-      <ul>
-        <li>👑 <b>Founder @ Bright Dance Company</b></li>
-        <li>📦 Deployed 5+ end-to-end full-stack software applications</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🥊 **Boxing & Athletics**: District-level Boxing Winner, State-level Boxing Participant, and selected for University-level selection trials.
+- 💡 **Hackathons**: Actively participated in technical coding hackathons, building and pitching Web3 and AI prototypes.
+- 🎨 **Leadership**: Founder and Choreographer of **Bright Dance Company**, managing performance lineups, event coordination, and budgeting.
 
 ---
 
