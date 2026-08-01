@@ -5,83 +5,47 @@
 
 <br />
 
-<!-- FUTURISTIC TERMINAL HUD HEADER -->
+<!-- ABOVE THE FOLD PANEL -->
 <div align="center">
-  <svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .terminal-rect { fill: #08090d; stroke: #00F0FF; stroke-width: 1.5; rx: 8px; filter: drop-shadow(0 0 8px rgba(0, 240, 255, 0.35)); }
-      .hud-title { font-family: 'Fira Code', 'Segoe UI', monospace; font-weight: 800; fill: #9B5DE5; filter: drop-shadow(0 0 4px #9B5DE5); }
-      .hud-text { font-family: 'Fira Code', 'Segoe UI', monospace; fill: #cbd5e0; font-size: 13px; }
-      .hud-accent { fill: #00F0FF; font-weight: bold; }
-      .purple-accent { fill: #9B5DE5; font-weight: bold; }
-      .pulse-circle { fill: #9B5DE5; filter: drop-shadow(0 0 6px #9B5DE5); animation: blink 1.5s infinite; }
-      @keyframes blink {
-        0%, 100% { opacity: 0.3; }
-        50% { opacity: 1; }
-      }
-      .loading-bar { fill: url(#hud-grad); animation: slide-load 4s infinite ease-in-out; }
-      @keyframes slide-load {
-        0% { width: 0%; }
-        50% { width: 70%; }
-        100% { width: 100%; }
-      }
-    </style>
-    <defs>
-      <linearGradient id="hud-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00F0FF" />
-        <stop offset="100%" stop-color="#9B5DE5" />
-      </linearGradient>
-    </defs>
-    <!-- Background Frame -->
-    <rect class="terminal-rect" width="100%" height="100" />
-    
-    <!-- Top Bar Controls -->
-    <circle cx="20" cy="20" r="5" fill="#FF5F56" />
-    <circle cx="35" cy="20" r="5" fill="#FFBD2E" />
-    <circle cx="50" cy="20" r="5" fill="#27C93F" />
-    <text x="75" y="24" font-family="'Fira Code', monospace" font-size="11" fill="#4a5568">SARAYU_CORE_NODE://PORTFOLIO</text>
-
-    <!-- Diagnostics Display -->
-    <text x="25" y="55" class="hud-title" font-size="19">&gt; EXT_CONN: FULL_STACK_SYS_INITIALIZED</text>
-    
-    <text x="25" y="80" class="hud-text">PORTFOLIO: <tspan class="purple-accent">ACTIVE</tspan></text>
-    <circle class="pulse-circle" cx="132" cy="76" r="4" />
-    
-    <text x="160" y="80" class="hud-text">ROLE: <tspan class="hud-accent">FULL STACK DEVELOPER</tspan></text>
-    <text x="430" y="80" class="hud-text">ENV: <tspan fill="#f6ad55">MERN + JAVA + PYTHON</tspan></text>
-    <text x="690" y="80" class="hud-text">SYS: <tspan fill="#48bb78">STABLE</tspan></text>
-
-    <!-- Technical Progress Bar -->
-    <rect x="0" y="96" width="100%" height="4" fill="#1a202c" />
-    <rect class="loading-bar" x="0" y="96" height="4" />
-  </svg>
-</div>
-
-<!-- PROFILE AVATAR & TYPING TEXT -->
-<div align="center">
-  <!-- 
-    REPLACE PROFILE IMAGE BELOW: 
-    Put your profile image in the repository and change "https://github.com/Sarayu76.png" if you wish to use a custom avatar.
-  -->
+  <!-- Centered Avatar -->
   <a href="https://github.com/Sarayu76">
-    <img src="https://github.com/Sarayu76.png" alt="Sarayu E" width="130" height="130" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" />
+    <img src="https://github.com/Sarayu76.png" alt="Sarayu E" width="120" height="120" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" />
   </a>
 
   <br /><br />
 
-  <!-- ANIMATED TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Software+Developer;Java+%26+Python+Engineer;MERN+Stack+Specialist;AI+%26+Intelligent+Systems;Founder%2C+Bright+Dance+Company" alt="Typing SVG" />
-  </a>
+  <!-- Name and Title -->
+  <h1 align="center" style="margin-bottom: 5px;">Sarayu E</h1>
+  <p align="center" style="font-size: 18px; color: #00F0FF; font-weight: bold; margin-top: 0;">Full Stack Developer | MERN Stack | Java | Python</p>
 
+  <!-- 4 Quick Badges -->
   <p align="center">
-    <a href="#-about-me">🤖 Executive Summary</a> • 
-    <a href="#-featured-projects">🚀 Deployments</a> • 
-    <a href="#-technical-arsenal--skills">🛠️ Core Stack</a> • 
-    <a href="#-connect-with-me">🌐 Get in Touch</a>
+    <img src="https://img.shields.io/badge/🚀_Open_to_Internships-9B5DE5?style=flat-square" alt="Open to Internships" />
+    <img src="https://img.shields.io/badge/💼_Full_Stack_Developer-0077B5?style=flat-square" alt="Full Stack Developer" />
+    <img src="https://img.shields.io/badge/🤖_AI_Projects-FF007F?style=flat-square" alt="AI Projects" />
+    <img src="https://img.shields.io/badge/🌐_MERN_Stack-20232A?style=flat-square&logo=react" alt="MERN Stack" />
   </p>
 
-  <hr width="70%" style="border: 0.5px solid #00f0ff; opacity: 0.3;" />
+  <!-- 2-Line Professional Summary -->
+  <p align="center" style="max-width: 680px; font-size: 15px; color: #cbd5e0; line-height: 1.6;">
+    Passionate Full Stack Developer specializing in building high-performance web applications, intelligent systems, and scalable backend workflows.<br />
+    Leverages expertise across MERN, Java, Python, and AI integrations to design robust digital experiences.
+  </p>
+
+  <!-- Followers & Profile Views -->
+  <p align="center">
+    <a href="https://github.com/Sarayu76?tab=followers"><img src="https://img.shields.io/github/followers/Sarayu76?label=Followers&style=flat-square&color=00F0FF&logo=github" alt="Followers" /></a>
+    <img src="https://komarev.com/normal-visitors/?username=Sarayu76&label=Profile%20Views&color=9B5DE5&style=flat-square" alt="Profile Views" />
+  </p>
+
+  <!-- CTA Button -->
+  <p align="center" style="margin-top: 15px;">
+    <a href="#🚀-featured-projects">
+      <img src="https://img.shields.io/badge/View_My_Projects_↓-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Projects" />
+    </a>
+  </p>
+
+  <hr width="75%" style="border: 0.5px solid #00f0ff; opacity: 0.3;" />
 </div>
 
 <br />
