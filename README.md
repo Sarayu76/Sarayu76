@@ -1,7 +1,7 @@
-<!-- GITHUB HERO BANNER -->
-<div align="center">
-  <img src="./github_hero_banner.png" width="100%" alt="Sarayu E - Full Stack Developer" style="border-radius: 8px;" />
-</div>
+<!-- GITHUB PROFILE BANNER -->
+<p align="center">
+<img src="./github_profile_banner.png" width="850">
+</p>
 
 <br />
 
