@@ -71,7 +71,7 @@
 
   <!-- ANIMATED TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=B.Tech+Computer+Science+%26+Business+Systems;AI+%26+Generative+AI+Enthusiast;Web+%26+Blockchain+Developer;District+Level+Boxing+Champion;Founder%2C+Bright+Dance+Company" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%92%BB+CSBS+Student+%7C+Java+%26+Python+Developer;%F0%9F%9A%80+AI+%E2%80%A2+Web+%E2%80%A2+Blockchain+Enthusiast;%F0%9F%8F%86+Boxer+%7C+%F0%9F%92%83+Founder+of+Bright+Dance+Company" alt="Typing SVG" />
   </a>
 
   <p align="center">
